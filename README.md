@@ -7,7 +7,7 @@ Datasets used in this project are:
 2. Diginetica : available at https://github.com/RUCAIBox/RecSysDatasets/blob/master/conversion_tools/usage/DIGINETICA.md
 
 TemporalGNN model:
-TemooralGNN_Diginetica.ipynb and TemporalGNN_Yoochoose.ipynb files contain preprocessing and model implementation on Yoochoose and Diginetica datasets.
+TemooralGNN_Diginetica.ipynb and TemporalGNN_Yoochoose.ipynb files contain data preprocessing, data exploration and model implementation on Yoochoose and Diginetica datasets.
 
 Baselines:
 Baseline methods used in this project are KNN and Node2Vec. Implementation of KNN and Node2Vec on Yoochoose and Diginetica datasets are available in Baselines folder.
